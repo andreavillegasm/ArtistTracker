@@ -8,3 +8,6 @@ The Artist Tracker is a simple application that uses APIs to allow users to foll
 
 **Live Site:** http://artistracker.andreavillegasma.com/
 
+## Technologies used:
+-  Spotify API, YouTube API, PHP, HTML, CSS, Bootstrap
+
