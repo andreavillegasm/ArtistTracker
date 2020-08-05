@@ -10,6 +10,6 @@ The Artist Tracker is a simple application that uses APIs to allow users to foll
 
 
 
-## Technologies used:
+## Technologies used
 -  Spotify API, YouTube API, PHP, HTML, CSS, Bootstrap
 
