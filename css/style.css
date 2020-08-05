@@ -1,0 +1,57 @@
+
+#grad {
+    background-image: linear-gradient(#412843, #333049, #412843);
+    height: 100vh;
+    overflow: scroll;
+}
+.title, #tag-line{
+    text-align: center;
+    color: floralwhite;
+
+}
+.title-tag{
+    text-align: center;
+    padding-top: 5%;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top:2em ;
+    padding-bottom: 2em;
+
+}
+.artist-container{
+    padding: 2em;
+    flex: 1 20%;
+    text-align: center;
+}
+.video-container{
+    flex: 1 20%;
+}
+.artist-name>a{
+    font-size: 30px;
+    padding-bottom: 2em;
+}
+.artists-title{
+    padding-top: 5%;
+}
+#nav-color{
+    background-color: black;
+}
+.footer{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 100px ;
+}
+.credits{
+    color: white;
+    text-align: center;
+    padding-top: 2em;
+}
+.buttons{
+    margin-top: 1em;
+}
+#back{
+    margin-top: 2em;
+    margin-bottom: 0;
+}
