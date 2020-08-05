@@ -1,6 +1,6 @@
 # Artist Tracker
 
-> By:Andrea Villegas Mayorga
+> By: Andrea Villegas Mayorga
 
 **Live Site:** http://artistracker.andreavillegasma.com/
 
